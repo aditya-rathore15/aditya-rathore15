@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00D4AA&size=28&center=true&vCenter=true&width=700&height=100&lines=Senior+Software+Engineer;MS+Computer+Science+%40+UF;Distributed+Systems+Enthusiast;Building+Scalable+Microservices" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00D4AA&size=28&center=true&vCenter=true&width=700&height=100&lines=Software+Engineer;MS+Computer+Science+%40+UF;Distributed+Systems+Enthusiast;Building+Scalable+Microservices" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 🎓 **Currently pursuing** Master's in Computer Science at **University of Florida** (2025-2027)  
-💼 **Senior Software Engineer** with 3+ years of experience in building scalable distributed systems  
+💼 **Software Engineer** with 3+ years of experience in building scalable distributed systems  
 
 ### What I'm up to:
 - 📚 Deep diving into **Distributed Operating Systems** and **Advanced Data Structures**
