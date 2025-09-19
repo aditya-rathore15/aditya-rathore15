@@ -21,11 +21,11 @@
 🎓 **Currently pursuing** Master's in Computer Science at **University of Florida** (2025-2027)  
 💼 **Software Engineer** with 3+ years of experience in building scalable distributed systems  
 
-### What I'm up to:
+<!-- ### What I'm up to:
 - 📚 Deep diving into **Distributed Operating Systems** and **Advanced Data Structures**
 - 🔧 Architecting microservices that handle massive scale (reduced item fallout by 65%!)  
 - 🌱 Exploring **Actor Models** and **Parallel Computing** optimization
-- ⚡ Passionate about system design and performance optimization
+- ⚡ Passionate about system design and performance optimization -->
 
 ---
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 💡 Featured Projects
+<!-- ## 💡 Featured Projects
 
 ### 🔥 **Parallel Computing Optimization** 
 > **Gleam, Actor Model** | *Aug 2025*
@@ -84,7 +84,7 @@
 - Integrated **5+ Google Chat webhook automations** for seamless notifications
 - Reduced database migration errors by **90%** using Flyway migrations
 
----
+--- -->
 
 ## 📊 Professional Impact
 
@@ -99,7 +99,7 @@
 
 ---
 
-## 🎯 Current Focus
+<!-- ## 🎯 Current Focus
 
 - 🔬 **Research**: Distributed systems and algorithm optimization
 - 📖 **Learning**: Advanced system design patterns and cloud-native architectures  
@@ -113,7 +113,7 @@
 - 🎓 **Exchange Student**: Studied at prestigious **IIT Gandhinagar** 
 - 👨‍🏫 **Mentor**: Love accelerating others' growth in tech
 
----
+--- -->
 
 <div align="center">
   
@@ -127,9 +127,9 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aditya-rathore15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+</p> -->
 
 
 
@@ -157,5 +157,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+-->
 
