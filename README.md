@@ -1,33 +1,21 @@
 <div align="center">
 
 # Aditya Rathore
+### Backend · Distributed Systems · ML Engineering
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1400&color=6A9FB5&center=true&vCenter=true&width=560&lines=27+microservices+migrated+to+Azure;65%25+reduction+in+item+fallout+rates;Kafka+pipelines+at+retail+scale;Vision+Transformers+%7C+94%25+test+accuracy;45%2C000+nodes+%E2%80%94+505+req%2Fs+at+2ms;Open+to+2027+new+grad+SDE+roles)](https://git.io/typing-svg)
-
-<a href="https://rathore-aditya.com">🌐 rathore-aditya.com</a> &nbsp;·&nbsp;
+<a href="https://rathore-aditya.com">rathore-aditya.com</a> &nbsp;·&nbsp;
 <a href="https://linkedin.com/in/adityarathore20">LinkedIn</a> &nbsp;·&nbsp;
 <a href="mailto:rathoreaditya.work@gmail.com">rathoreaditya.work@gmail.com</a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=1400&color=6A9FB5&center=true&vCenter=true&width=500&height=30&lines=27+microservices+migrated+to+Azure;65%25+reduction+in+item+fallout+rates;Kafka+pipelines+at+retail+scale;Vision+Transformers+%7C+94%25+test+accuracy;45%2C000+nodes+%E2%80%94+505+req%2Fs+at+2ms;Open+to+2027+new+grad+SDE+roles)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-Software engineer with 3+ years of production experience building backend systems at scale. At ZopSmart I designed distributed microservices handling real retail traffic — decomposing monolithic catalog logic, building Kafka-backed pipelines, and leading a full cloud migration across 27 services to Azure. I'm now finishing my MS in Computer Science at the University of Florida, where I've gone deep on ML engineering alongside my systems work.
+Software engineer with 3+ years of production experience building backend systems at scale. At ZopSmart I designed distributed microservices handling real retail traffic — decomposing monolithic catalog logic, building Kafka-backed pipelines, and leading a full cloud migration across 27 services to Azure. Now finishing my MS at UF, going deep on ML engineering alongside my systems work.
 
-Graduating May 2027. Looking for new grad software engineering roles in backend, distributed systems, or ML infrastructure.
-
----
-
-## Work
-
-**University of Florida** — Software Engineer &nbsp;`Feb 2026 – Present`  
-Sole developer on a volunteer management portal for a UF literacy initiative. React, Node.js, PostgreSQL. Microsoft Entra ID OAuth 2.0 for enterprise SSO, Railway-hosted CI/CD with zero-downtime database migrations.
-
-**ZopSmart** — Software Engineer &nbsp;`Jul 2022 – Jul 2025`  
-Designed 3 Spring Boot microservices with 22 REST APIs to replace a monolithic product catalog — cutting item fallout by 65%. Integrated Kafka for async availability updates, hardened auth with Spring Security across all user tiers, and led the cloud migration of 27 services from on-premises to Azure covering re-architecture, resource optimization, and post-migration monitoring. Maintained 90% unit test coverage with JUnit and Mockito.
-
-**ZopSmart** — Software Engineering Intern &nbsp;`Jan 2022 – Jul 2022`  
-Built a workforce management platform from scratch for 500+ employees across 45+ projects. Spring Boot, PostgreSQL, Flyway migrations (90% reduction in migration errors), Docker + Kubernetes deployments supporting a 2x increase in user load.
+Graduating May 2027. Looking for new grad roles in backend, distributed systems, or ML infrastructure.
 
 ---
 
