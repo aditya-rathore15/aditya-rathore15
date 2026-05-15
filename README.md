@@ -1,161 +1,91 @@
-# 👋 Hello, I'm Aditya Rathore! 
+# Aditya Rathore
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00D4AA&size=28&center=true&vCenter=true&width=700&height=100&lines=Software+Engineer;MS+Computer+Science+%40+UF;Distributed+Systems+Enthusiast;Building+Scalable+Microservices" alt="Typing SVG" />
-  </a>
-</p>
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityarathore20)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-rathore15)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathoreaditya.work@gmail.com)
-
-</div>
+<a href="https://rathore-aditya.com">🌐 rathore-aditya.com</a> &nbsp;·&nbsp;
+<a href="https://linkedin.com/in/adityarathore20">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:rathoreaditya.work@gmail.com">rathoreaditya.work@gmail.com</a>
 
 ---
 
-## 🚀 About Me
+Software engineer with 3+ years of production experience building backend systems at scale. At ZopSmart I designed distributed microservices handling real retail traffic — decomposing monolithic catalog logic, building Kafka-backed pipelines, and leading a full cloud migration across 27 services to Azure. I'm now finishing my MS in Computer Science at the University of Florida, where I've gone deep on ML engineering alongside my systems work.
 
-🎓 **Currently pursuing** Master's in Computer Science at **University of Florida** (2025-2027)  
-💼 **Software Engineer** with 3+ years of experience in building scalable distributed systems  
-
-<!-- ### What I'm up to:
-- 📚 Deep diving into **Distributed Operating Systems** and **Advanced Data Structures**
-- 🔧 Architecting microservices that handle massive scale (reduced item fallout by 65%!)  
-- 🌱 Exploring **Actor Models** and **Parallel Computing** optimization
-- ⚡ Passionate about system design and performance optimization -->
+Graduating May 2027. Looking for new grad software engineering roles in backend, distributed systems, or ML infrastructure.
 
 ---
 
-## 🛠️ Tech Arsenal
+## Work
 
-### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Gleam](https://img.shields.io/badge/Gleam-FFAFF3?style=for-the-badge&logo=gleam&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**University of Florida** — Software Engineer &nbsp;`Feb 2026 – Present`  
+Sole developer on a volunteer management portal for a UF literacy initiative. React, Node.js, PostgreSQL. Microsoft Entra ID OAuth 2.0 for enterprise SSO, Railway-hosted CI/CD with zero-downtime database migrations.
 
-### **Backend & Frameworks** 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+**ZopSmart** — Software Engineer &nbsp;`Jul 2022 – Jul 2025`  
+Designed 3 Spring Boot microservices with 22 REST APIs to replace a monolithic product catalog — cutting item fallout by 65%. Integrated Kafka for async availability updates, hardened auth with Spring Security across all user tiers, and led the cloud migration of 27 services from on-premises to Azure covering re-architecture, resource optimization, and post-migration monitoring. Maintained 90% unit test coverage with JUnit and Mockito.
 
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![YugabyteDB](https://img.shields.io/badge/YugabyteDB-FF6B35?style=for-the-badge&logo=yugabyte&logoColor=white)
-
-### **Cloud & DevOps**
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### **Tools & Monitoring**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+**ZopSmart** — Software Engineering Intern &nbsp;`Jan 2022 – Jul 2022`  
+Built a workforce management platform from scratch for 500+ employees across 45+ projects. Spring Boot, PostgreSQL, Flyway migrations (90% reduction in migration errors), Docker + Kubernetes deployments supporting a 2x increase in user load.
 
 ---
 
-<!-- ## 💡 Featured Projects
+## Projects
 
-### 🔥 **Parallel Computing Optimization** 
-> **Gleam, Actor Model** | *Aug 2025*
-- Designed distributed actor-based system achieving **7.4x CPU parallelization** 
-- Optimized mathematical algorithms reaching millisecond-level efficiency
-- Near-optimal resource utilization through systematic performance analysis
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🧠 **Named Entity Recognition System**
-> **Python, TensorFlow, Keras** | *Nov 2024*  
-- Built deep neural network achieving **96% accuracy** in entity classification
-- Implemented advanced tokenization and vectorization techniques
-- Successfully identifies names, locations, and contextual entities
+**Brain Tumor MRI Classification** &nbsp;`Apr 2026`
 
-### 🏢 **Enterprise Workforce Management Platform**
-> **Spring Boot, PostgreSQL, Docker, Kubernetes** | *2022*
-- Built from scratch to manage **500+ employees** across **45+ projects**
-- Integrated **5+ Google Chat webhook automations** for seamless notifications
-- Reduced database migration errors by **90%** using Flyway migrations
+Multi-class MRI classification using ResNet18, ResNet50, and Vision Transformers. Fine-tuned ResNet50 achieves ~94% test accuracy. Grad-CAM visualizations to surface model attention and diagnose failure cases.
 
---- -->
+`Python` `PyTorch` `Grad-CAM`
 
-## 📊 Professional Impact
+</td>
+<td width="50%" valign="top">
+
+**Multi-Label Image Classification** &nbsp;`Mar 2026`
+
+End-to-end pipeline for 4,543 images across 12 categories. Benchmarked 8 architectures including DenseNet-121, TinyViT, and Swin Transformer V2. Two-stage transfer learning lifted exact-match accuracy from 3.85% → 76.46%; 90.83% Micro-F1.
+
+`Python` `PyTorch` `Swin Transformer`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Reddit Clone Engine** &nbsp;`Distributed Systems`
+
+Actor-model simulation in Gleam with Zipf-distributed subreddit popularity, scaling to 50K concurrent users. Extended with 18 REST endpoints and a CLI client; sustained 505 req/s at 2ms latency.
+
+`Gleam`
+
+</td>
+<td width="50%" valign="top">
+
+**Gossip Protocol Simulator** &nbsp;`Distributed Systems`
+
+Convergence simulation across up to 45,000 nodes using actor-based message passing in Gleam. Learned the language in ~16 days.
+
+`Gleam`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Stack
 
 ```
-🚀 Microservices Migration      → Reduced item fallout by 65%
-⚡ System Reliability           → 100% compliance with data policies  
-🔄 Monolith → Microservices     → Decomposed into 7 scalable services
-☁️ Cloud Migration              → Successfully migrated 27 services to Azure
-🧪 Code Quality                 → Achieved 90% test coverage with JUnit
-📈 Performance Optimization     → Handled 2x user load increase
+Languages      Java · Python · Go · TypeScript · JavaScript · SQL · C
+Backend        Spring Boot · Node.js · Kafka · Azure Event Hubs · REST
+ML/DL          PyTorch · Vision Transformers · Grad-CAM · NLP · Transfer Learning
+Databases      PostgreSQL · MySQL · YugabyteDB
+Infrastructure Docker · Kubernetes · Azure · GCP · Railway · GitHub Actions
+Observability  Grafana · Datadog
 ```
 
 ---
 
-<!-- ## 🎯 Current Focus
+## Education
 
-- 🔬 **Research**: Distributed systems and algorithm optimization
-- 📖 **Learning**: Advanced system design patterns and cloud-native architectures  
-- 🤝 **Mentoring**: Training junior developers and interns
-- 🎓 **Academic**: Pursuing cutting-edge CS coursework at University of Florida
-
----
-
-## 🌟 Fun Facts
-
-- 🎓 **Exchange Student**: Studied at prestigious **IIT Gandhinagar** 
-- 👨‍🏫 **Mentor**: Love accelerating others' growth in tech
-
---- -->
-
-<div align="center">
-  
-### 💬 Let's Connect and Build Something Amazing!
-
-*Always excited to discuss distributed systems, microservices architecture, or collaborate on innovative projects!*
-
-⭐ **Open to:** Full-time opportunities, research collaborations, and interesting technical discussions
-
-</div>
-
----
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditya-rathore15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p> -->
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- ## Hi there 👋
-
-<!--
-**aditya-rathore15/aditya-rathore15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+**University of Florida** — MS Computer Science, GPA 3.88 &nbsp;`2025 – 2027`  
+**JK Lakshmipat University** — BTech Computer Science, GPA 8.6 &nbsp;`2018 – 2022`
